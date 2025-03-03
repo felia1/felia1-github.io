@@ -1,0 +1,28 @@
+.section1 {
+	background-color:#fec5bb
+;
+	}
+
+.section4 {
+	background-color: #fcd5ce;
+	}
+
+.section3 {
+	background-color: #fae1dd;
+	}
+.section2 {
+	background-color: 
+#f8edeb;
+	}
+
+.card, .card-img-top {
+	border-radius: 0;
+}
+
+.card {
+	border: 0;
+}
+
+.text-center {
+	color: grey;
+}
